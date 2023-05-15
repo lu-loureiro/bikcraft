@@ -17,6 +17,7 @@
   overflow-x: auto;
 }
 .bicicletas-lista li {
+  flex: 1;
   min-width: 280px;
 }
 
